@@ -63,3 +63,5 @@ uv/python main.py
 - "What's the weather in Paris?"
 
 - "Read the file example.txt"
+
+```###🛠️ Tool Development
