@@ -1,9 +1,9 @@
-# 🤖 AI Agent Framework
+# 🤖 AI Agent
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![AI](https://img.shields.io/badge/AI-Generative%20Agent-orange.svg)
 
-A modular AI agent framework with tool integration, built from scratch using Google's Gemini API. This system allows for dynamic tool registration and execution with natural language processing capabilities.
+A modular AI agent with tool integration, built from scratch using Google's Gemini API. This system allows for dynamic tool registration and execution with natural language processing capabilities.
 
 ## ✨ Key Features
 
@@ -64,14 +64,11 @@ uv/python main.py
 
 - "Read the file example.txt"
 
+🌐 API Integration
+This project uses Google's Gemini API for generative AI capabilities. To get an API key:
 
-###🛠️ Tool Development
-Addting New Tools:
-   1. Create your tool function:
-      ```python
-      def new_tool(param1: type, param2: type) -> str:
-      """Description of what the tool does."""
-      # Implementation
-      return "Result"
-    
-```
+- Visit Google AI Studio
+
+- Create an API key
+
+- Add it to your .env file
