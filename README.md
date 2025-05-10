@@ -27,7 +27,15 @@ AI_Agent/
 ├── main.py                # Core agent logic and tool management
 ├── .env                   # Configuration (API keys)
 ├── tools/                 # Tool implementations
-│   ├── math_tools.py      # Calculator functions
-│   ├── web_tools.py       # Weather/API integrations
-│   └── file_tools.py      # File operations
+│   ├── math_tools         # Calculator functions
+│   ├── web_tools          # Weather/API integrations
+│   └── file_tools         # File operations
 └── README.md              # Project documentation
+
+---
+
+## 🚀 Getting Started
+Prerequisites
+Python 3.10+
+
+Google Gemini API key
