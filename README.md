@@ -65,7 +65,7 @@ uv/python main.py
 - "Read the file example.txt"
 
 
-##🌐 API Integration
+### 🌐 API Integration
 This project uses Google's Gemini API for generative AI capabilities. To get an API key:
 
 - Visit Google AI Studio
