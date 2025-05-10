@@ -41,6 +41,25 @@ git clone https://github.com/Shashwat2801/ai-agent-framework.git
 cd ai-agent-framework
 
 ```
-2. Install Dependencies
+2. Install Dependencies:
 ```bash
 pip install python-dotenv google-generativeai
+
+```
+3. Create .env file:
+```bash
+GEMINI_API_KEY=your_api_key_here
+
+```
+Usage
+Run the Agent:
+```bash
+uv/python main.py
+
+```
+Example Commands:
+"Calculate 15 plus 27"
+
+"What's the weather in Paris?"
+
+"Read the file example.txt"
