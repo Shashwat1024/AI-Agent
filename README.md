@@ -57,9 +57,9 @@ Run the Agent:
 uv/python main.py
 
 ```
-Example Commands:
-"Calculate 15 plus 27"
+### Example Commands:
+- "Calculate 15 plus 27"
 
-"What's the weather in Paris?"
+- "What's the weather in Paris?"
 
-"Read the file example.txt"
+- "Read the file example.txt"
