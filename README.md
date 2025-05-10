@@ -64,5 +64,14 @@ uv/python main.py
 
 - "Read the file example.txt"
 
-```
+
 ###🛠️ Tool Development
+Addting New Tools:
+   1. Create your tool function:
+      ```python
+      def new_tool(param1: type, param2: type) -> str:
+    """Description of what the tool does."""
+    # Implementation
+    return "Result"
+    
+```
