@@ -17,15 +17,19 @@ A modular AI agent with tool integration, built from scratch using Google's Gemi
 | 🔐 API Integration     | Secure Gemini API integration with environment variables                  |
 
 ## 🏗️ Architecture Overview
+
+```python
 AI_Agent/
 │
-├── main.py # Core agent logic and tool management
-├── .env # Configuration (API keys)
-├── tools/ # Tool implementations
-│ ├── math_tools # Calculator functions
-│ ├── web_tools  # Weather/API integrations
-│ └── file_tools # File operations
-└── README.md # Project documentation
+├── main.py                # Core agent logic and tool management
+├── .env                   # Configuration (API keys)
+├── tools/                 # Tool implementations
+│   ├── math_tools.py      # Calculator functions
+│   ├── web_tools.py       # Weather/API integrations
+│   └── file_tools.py      # File operations
+└── README.md              # Project documentation
+
+```
 
 
 ## 🚀 Getting Started
