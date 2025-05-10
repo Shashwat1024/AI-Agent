@@ -73,3 +73,22 @@ This project uses Google's Gemini API for generative AI capabilities. To get an 
 - Create an API key
 
 - Add it to your .env file
+
+### 🤝 Contributing
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository
+
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+
+3. Commit your changes (git commit -m 'Add some amazing feature')
+
+3. Push to the branch (git push origin feature/AmazingFeature)
+
+4. Open a Pull Request
+
+### 📧 Contact
+Shashwat Mahajan
+📧 shashwat2801@gmail.com
+💻 GitHub Profile
+🔗 LinkedIn Profile
