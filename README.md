@@ -40,5 +40,5 @@ AI_Agent/
 git clone https://github.com/Shashwat2801/ai-agent-framework.git
 cd ai-agent-framework
 
-Install Dependencies:
+2. Install Dependencies:
 pip install python-dotenv google-generativeai
